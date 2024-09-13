@@ -10,3 +10,5 @@ leak_report
 # Hardhat files
 cache
 artifacts
+
+scripts/events*
