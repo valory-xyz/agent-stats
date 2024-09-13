@@ -1,7 +1,5 @@
 # Agent Stats
-Agent statistics and parameters.
-
-This repository allows to read a specified agent parameters and track its activity.
+Get reports on activity on various Olas staking contracts.
 
 ## Development
 
@@ -16,5 +14,10 @@ yarn install
 
 ### Run scripts
 ```
-node scripts/script_name.js
+cd scripts
+node report-pearl-beta.js
+// or
+node report-pearl-beta-2.js
+// or
+node pearl_alpha.js
 ```
