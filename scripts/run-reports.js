@@ -9,8 +9,8 @@ async function runReports() {
     { name: 'qs-beta-hobbyist', address: "0x389b46c259631acd6a69bde8b6cee218230bae8c", useRetry: false },
     { name: 'qs-beta-hobbyist-2', address: "0x238eb6993b90a978ec6aad7530d6429c949c08da", useRetry: false },
     { name: 'qs-beta-expert', address: "0x5344b7dd311e5d3dddd46a4f71481bd7b05aaa3e", useRetry: false },
-    { name: 'qs-beta-expert-2', address: "0x80fad33cadb5f53f9d29f02db97d682e8b101618", useRetry: false },
-    { name: 'qs-beta-expert-3', address: "0xb964e44c126410df341ae04b13ab10a985fe3513", useRetry: false },
+    { name: 'qs-beta-expert-2', address: "0xb964e44c126410df341ae04b13ab10a985fe3513", useRetry: false },
+    { name: 'qs-beta-expert-3', address: "0x80fad33cadb5f53f9d29f02db97d682e8b101618", useRetry: false },
     { name: 'qs-beta-expert-4', address: "0xad9d891134443b443d7f30013c7e14fe27f2e029", useRetry: false },
     { name: 'qs-beta-expert-5', address: "0xe56df1e563de1b10715cb313d514af350d207212", useRetry: false },
     { name: 'optimus-alpha', address: "0x5344b7dd311e5d3dddd46a4f71481bd7b05aaa3e", useRetry: false }
